@@ -1,0 +1,13 @@
+{
+  "name": "behemoth-command-center",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build-react.js"
+  },
+  "dependencies": {
+    "esbuild": "^0.25.0",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
+  }
+}
